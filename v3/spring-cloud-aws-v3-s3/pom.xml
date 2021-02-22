@@ -12,5 +12,11 @@
 	<artifactId>spring-cloud-aws-v3-s3</artifactId>
 
 
+	<dependencies>
+		<dependency>
+			<groupId>io.awspring.cloud</groupId>
+			<artifactId>spring-cloud-aws-v3-autoconfigure</artifactId>
+		</dependency>
+	</dependencies>
 
 </project>
